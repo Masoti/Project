@@ -1,0 +1,13 @@
+/* h1#first-h1 {
+    background-color: aqua;
+}
+p#first-p {
+    color: brown;
+} */
+
+#first-h1 {
+    background-color: aqua;
+}
+#first-p {
+    color: brown;
+}
