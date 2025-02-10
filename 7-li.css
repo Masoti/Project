@@ -1,0 +1,39 @@
+.bg-aqua {
+    background-color: aqua;
+}
+
+.brown-p {
+    color: brown;
+}
+/* ol {
+    background-color: skyblue;
+}  */
+/* ol li span {
+    background-color: skyblue;
+}  */
+
+/* ol li:first-child span {
+    background-color: skyblue;
+} */
+/* ol li:last-child span {
+    background-color: skyblue;
+} */
+/* ol li:nth-child(3) span {
+    background-color: skyblue; 
+} */
+/* ol li:nth-child(even) span {
+    background-color: skyblue;
+}  */
+ol li:nth-child(3n) span {
+        background-color: skyblue;
+}
+ol li:nth-child(3n+1) span {
+        background-color: rgb(114, 194, 48);
+}
+ol li:nth-child(3n+2) span {
+        background-color: rgb(191, 47, 219);
+}
+
+ol li:nth-child(n + 6) span {
+    background-color: rgb(226, 142, 31);
+}

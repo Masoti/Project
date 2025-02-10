@@ -1,0 +1,14 @@
+.clearfix {
+    clear: both;
+}
+
+article {
+    text-align: justify;
+    width: 25%;
+    float: left;
+    border: 1px solid gray;
+    box-sizing: border-box;
+    padding: 5px 20px 5px 10px;
+
+}
+

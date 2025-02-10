@@ -1,0 +1,33 @@
+/* .varzesh3 {
+    color: black;
+    transition: color 0.5s;
+} */
+/* .varzesh3:hover {
+    color: red;
+} */
+/* .varzesh3:active {
+    color: green;
+} */
+/* .varzesh3:visited {
+    color: skyblue;
+} */
+/* .bing {
+    color: black;
+    transition: color 0.5s;
+} */
+/* .bing:hover {
+    color: red;
+} */
+/* .bing:active {
+    color: green;
+} */
+.bing {
+    background-color:#f2d5d5;
+    transition: background-color 1s;
+}
+.bing:hover {
+    background-color: red;
+}
+.bing:active {
+    background-color: green;
+}
